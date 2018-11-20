@@ -1,0 +1,7 @@
+friends :
+    induja
+    maya
+    sandra
+    laskhmi
+    sandra
+    roshni
